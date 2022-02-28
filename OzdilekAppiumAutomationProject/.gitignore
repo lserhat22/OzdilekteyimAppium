@@ -1,0 +1,5 @@
+.idea
+.gauge
+logs/
+reports/
+target/
